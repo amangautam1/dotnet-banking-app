@@ -1,4 +1,4 @@
-# dot-net-banking-app
+# Dot-net-banking-application
 <img src="Screenshot (270).png" height=250 width=500 />
 <img src="Screenshot (271).png" height=250 width=500 />
 <img src="Screenshot (272).png" height=250 width=500 />
