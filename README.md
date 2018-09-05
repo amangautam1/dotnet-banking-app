@@ -5,4 +5,4 @@
 <img src="Screenshot (273).png" height=250 width=500 />
 
 
-Note: This is just a protype application. It is not related to any Apna Bank or any commercial firm. The image used is just for demonstration purpose and is property of its owner.
+Note: This is just a protype application. It is not related to any Apna Bank or any commercial firm. The logo used is just for demonstration purpose and is property of its owner.
